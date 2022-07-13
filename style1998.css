@@ -1,0 +1,51 @@
+main {
+text-align: center;
+}
+.bg-gray {
+   background-color: #eeeeee;
+   width: 90%;
+   height: 62px;
+   margin: auto;
+}
+.table1 {
+    width: 37%;
+    height: 76px;
+    background-color:#7EE5DA;
+    margin-top: 2px;
+    margin-right: 2px;
+    display: table;
+    
+}
+.table2{
+    width: 235px;
+    height: 76px;
+    background-color:#70CCC2;
+    margin-top: 2px;
+    margin-right: 2px;
+    display: table;
+    font-size: 12.9px;
+    
+}
+
+.table3{
+    width: 522.42px;
+    height: 76px;
+    background-color: #62B3AA;
+    margin-top: 2px;
+    margin-right: 2px;
+    display: table;
+    font-size: 13px;
+    line-height: 9.5px;
+        
+}
+
+.table{
+    width: 90%;
+    height: 90px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+footer{
+   text-align: center;}
